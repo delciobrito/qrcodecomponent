@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;    
+}
+
+:root {
+    font-size: 62.5%;
+    --Darkblue: hsl(218, 44%, 22%);
+    --Grayishblue: hsl(220, 15%, 55%);
+    --Lightgray: hsl(212, 45%, 89%);
+    --White: hsl(0, 0%, 100%);
+}
+
+body {
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    background-color: var(--Lightgray);
+    font-family: 'Outfit', sans-serif;
+    height: 100vh;
+    width: 100vw;
+}
+
