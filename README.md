@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://delciobrito.github.io/qrcodecomponent/
 
 ## My process
 
@@ -42,6 +42,6 @@ I intend to continue developing skills with css mainly display flex and grid
 
 ## Author
 
-- Website - [Delcio Brito](https://github.com/delciobrito)
+- GitHub - [Delcio Brito](https://github.com/delciobrito)
 - Frontend Mentor - [@delciobrito](https://www.frontendmentor.io/profile/delciobrito)
-- Linkedin - [@yourusername]https://www.linkedin.com/in/delcio-brito/)
+- Linkedin - https://www.linkedin.com/in/delcio-brito/)
